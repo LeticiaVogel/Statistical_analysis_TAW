@@ -1,4 +1,4 @@
-# Statistical_analysis_TAW
+# Statistical analysis TAW
 Codes for statistical analysis performed using Total Available Water (TAW) data.
 
 Boxplot_LUC_TAW: Box plot of average TAW across different biomes, land cover types, and land uses.
